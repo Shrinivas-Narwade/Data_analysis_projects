@@ -1,5 +1,8 @@
 - Hi, I’m Shrinivas Narwade
-- As a aspiring data analyst,A data analyst plays a critical role in organizations by collecting, processing, and analyzing data to help make informed business decisions.
+- A data analyst plays a critical role in organizations by collecting, processing, and analyzing data to help make informed business decisions.
+- I have developed skills like SQL, Excel, Power BI, statistics and Python which are required for data analysis. 
 - I’m currently gaining a hands on experience in data analysis by working on different projects.
+- As a aspiring data analyst, i know primary resposibilities that includes data collection, data cleaning, data analysis, visualization, reporting, data mining etc
+- As aspiring Data analyst, i typically use tools like Excel, SQL, Python and data visualization tools (e.g., Power BI, Tableau) to perform their tasks. I have strong analytical, problem-solving, and communication skills, as well as a good understanding of statistics and data manipulation techniques. This role is crucial for organizations to harness the power of data and make informed choices to achieve their goals.
 - currently looking for an opportunity where i can utilize my skills and helps to grow organization.
 - you can reach me 'shrinivas2795@gmail.com'
